@@ -2,7 +2,7 @@
 This is a delta-demo git&amp;hub class.
 
 # Teacher
-Shardha Khapara
+Shradha Khaprae
 
 # Students
-Delta - Students
+Delta
